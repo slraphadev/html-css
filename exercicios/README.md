@@ -1,0 +1,1 @@
+# NOTA: O Prof. Gustavo Guanabara pulou o ex005.
